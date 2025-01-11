@@ -1,7 +1,7 @@
 # ECAC
 Traz caixa postal dos CNPJs selecionados, emite relatório de situação fiscal e emite certidão
 
-- Macro em Python usando as bibliotecas Pyautogui e Selenium para buscar mensagens da caixa postal no portal do ECAC e trazer para uma planilha
+- Robô em Python usando as bibliotecas Pyautogui e Selenium para buscar mensagens da caixa postal no portal do ECAC e trazer para uma planilha
 
 - Tem um código que traz todas as mensagens e tem o código que traz apenas as mensagens não lidas.
 
