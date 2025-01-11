@@ -8,3 +8,5 @@ Traz caixa postal dos CNPJs selecionados, emite relatório de situação fiscal 
 - Alem disso, tem o código em que imprime o relatório da situação fiscal e a certidão.
 
 - No código é só colocar os CNPJ que voces tem procuração que a ferramenta vai fazer todo o procedimento.
+
+- Observação.: Execute o arquivo captura_posição.py para capturar a posição correta do seu monitor para que o Pyautogui clique corretamente nos botões corretos.
